@@ -188,4 +188,4 @@ Execute the program
 
 ~~~
 # OUPUT
-[GitHub Logo](web.png)
+![GitHub Logo](web.png)
